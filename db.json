@@ -5,21 +5,21 @@
       "temperature": "11",
       "humidity": "111",
       "serialNumber": "aaaaaa",
-      "registerTime": "2021-01-01"
+      "registerTime": "2021 01 01"
     },
     {
       "deviceName": 222222,
       "temperature": "22",
       "humidity": "222",
       "serialNumber": "bbbbbb",
-      "registerTime": "2022-02-02"
+      "registerTime": "2022 02 02"
     },
     {
       "deviceName": 333333,
       "temperature": "33",
       "humidity": "333",
       "serialNumber": "cccccc",
-      "registerTime": "2033-03-03"
+      "registerTime": "2033 03 03"
     }
   ]
 }
